@@ -7,4 +7,4 @@ To insert your ip address and password you need to modify the sshIP.txt EX: 192.
 
 Remember that the txt and exe MUST BE in the same directory for the script to work
 
-Also you need openssh installed on your machine
+Also you need this installed on your machine https://www.howtogeek.com/336775/how-to-enable-and-use-windows-10s-built-in-ssh-commands/
